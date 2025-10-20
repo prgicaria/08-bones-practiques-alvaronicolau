@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+
+'''Bones pràctiques.
+Es divideixen dos nombres enters: es mostra la divisió, el q i el r.
+
+Institut Icària
+Programació  - 1r Batxillerat - Curs 2025-26
+
+El programa demana a l'usuari dos nombres enters, dividend i divisor.
+La sortida per pantalla mostra la divisió, el quocient i el residu.
+'''
+
+__author__ = "Álvaro"
+__email__ = "anicolau@instituticaria.cat"
+__date__ = "2025/10/17"
+
+dividend = int(input())
+divisor = int(input())
+
+quocient = dividend // divisor
+residu = dividend % divisor
+
+print(f"Divisió: {dividend}/{divisor}")
+print(f"Quocient: {quocient}")
+print(f"Residu: {residu}")
