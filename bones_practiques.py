@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''Bones pràctiques.
-Es divideixen dos nombres enters: es mostra la divisió, el quocient i el residu.
+Es divideixen dos nombres enters: es mostra la divisió, el q i el r.
 
 Institut Icària
 Programació  - 1r Batxillerat - Curs 2025-26
